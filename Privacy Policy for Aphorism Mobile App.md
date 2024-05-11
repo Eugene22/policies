@@ -1,4 +1,4 @@
-**Privacy Policy**
+## Privacy Policy
 
 This privacy policy applies to the Aphorism app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
@@ -13,6 +13,9 @@ This Application does not collect precise information about the location of your
 **Do third parties see and/or have access to information obtained by the Application?**
 
 Since the Application does not collect any information, no data is shared with third parties.
+
+**Children**
+Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 **Security**
 
