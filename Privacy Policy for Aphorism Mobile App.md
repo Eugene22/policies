@@ -15,6 +15,7 @@ This Application does not collect precise information about the location of your
 Since the Application does not collect any information, no data is shared with third parties.
 
 **Children**
+
 Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 **Security**
